@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wed:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/wed_jar</output-path>
+    <root id="archive" name="wed.jar">
+      <element id="module-output" name="wed" />
+    </root>
+  </artifact>
+</component>

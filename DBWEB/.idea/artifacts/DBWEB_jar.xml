@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DBWEB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DBWEB_jar</output-path>
+    <root id="archive" name="DBWEB.jar">
+      <element id="module-output" name="DBWEB" />
+    </root>
+  </artifact>
+</component>

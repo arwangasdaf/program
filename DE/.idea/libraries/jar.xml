@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jar包">
+    <CLASSES>
+      <root url="file://E:/分布式计算/分布式计算/intllijIDEA环境配置/jar包" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/分布式计算/分布式计算/intllijIDEA环境配置/jar包" />
+    </SOURCES>
+    <jarDirectory url="file://E:/分布式计算/分布式计算/intllijIDEA环境配置/jar包" recursive="false" />
+    <jarDirectory url="file://E:/分布式计算/分布式计算/intllijIDEA环境配置/jar包" recursive="false" type="SOURCES" />
+  </library>
+</component>

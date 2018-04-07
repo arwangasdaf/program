@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="koloboke-compile-0.5">
+    <CLASSES>
+      <root url="jar://J:/koloboke-compile-0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://J:/koloboke-compile-0.5.jar!/impl/java" />
+      <root url="jar://J:/koloboke-compile-0.5.jar!/impl/javaTemplates" />
+    </SOURCES>
+  </library>
+</component>

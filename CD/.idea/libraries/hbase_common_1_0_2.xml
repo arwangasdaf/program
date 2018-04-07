@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hbase-common-1.0.2">
+    <CLASSES>
+      <root url="jar://E:/分布式计算/环境配置/jar包/hbase-common-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

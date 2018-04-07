@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DBWEBSQL:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DBWEBSQL_jar</output-path>
+    <root id="archive" name="DBWEBSQL.jar">
+      <element id="module-output" name="DBWEBSQL" />
+    </root>
+  </artifact>
+</component>

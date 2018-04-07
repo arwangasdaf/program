@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BM_jar</output-path>
+    <root id="archive" name="BM.jar">
+      <element id="module-output" name="BM" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-actors-migration.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-actors.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-swing.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

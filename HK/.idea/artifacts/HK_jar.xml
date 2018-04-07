@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HK:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HK_jar</output-path>
+    <root id="archive" name="HK.jar">
+      <element id="module-output" name="HK" />
+    </root>
+  </artifact>
+</component>
